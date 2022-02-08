@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PolishKnight
 - 👀 I’m interested in chess and computer programing
 - 🌱 I’m currently learning JavaScript (and english :p)
-- 📫 You can write to me on GitHub
+- 📫 You can write to me on Discord
 
 <!---
 PolishKnight/PolishKnight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
